@@ -1,0 +1,28 @@
+polygon {
+    fill: none;
+    stroke: black;
+}
+
+.rotationmark {
+    fill: red;
+}
+
+use {
+    stroke: red;
+}
+
+.l6 {
+   fill:#009000;
+   fill-opacity:0.3;
+}
+
+
+.l17{
+   fill:#900000;
+   fill-opacity:0.3;
+}
+
+.l31{
+  fill:#000090;
+   fill-opacity:0.3;
+}
